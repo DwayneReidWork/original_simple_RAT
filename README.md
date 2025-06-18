@@ -13,8 +13,8 @@ Terminal 2
 
 Availible commands. 
 
-connect <host port> {seperated by space}
+connect host port {seperated by space}
 
 [once connected]
 ping
-read_file <name>
+read_file filename
